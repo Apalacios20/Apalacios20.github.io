@@ -1,5 +1,8 @@
 img {
     width: 400px;
+      position: absolute;
+      top: 55%;
+      left: 46.5%;
       height: 200px;
       border:2px solid #fff;
       background: url(img/tiger.png) no-repeat;
